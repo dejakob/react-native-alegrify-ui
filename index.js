@@ -19,6 +19,8 @@ import QuickMessage from './lib/quick-message';
 import Stepper from './lib/stepper';
 import TabBar from './lib/tab-bar';
 
+import CONFIG from './lib/config';
+
 export {
     Avatar,
     BackgroundGradient,
@@ -39,5 +41,7 @@ export {
     Padding,
     QuickMessage,
     Stepper,
-    TabBar
+    TabBar,
+
+    CONFIG
 };
