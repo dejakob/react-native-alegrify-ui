@@ -1,0 +1,19 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "paddingLeft": "16h4s",
+            "paddingRight": "16h4s"
+        }
+    },
+    "Text": {
+        "DEFAULT": {
+            "color": "theme:action",
+            "fontSize": "6vh",
+            "textAlign": "center"
+        },
+        "SMALL": {
+            "fontSize": "4vh",
+            "opacity": 0.8
+        }
+    }
+}

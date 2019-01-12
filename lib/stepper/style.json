@@ -1,0 +1,18 @@
+{
+    "Item": {
+        "DEFAULT": {
+            "width": "100vw"
+        }
+    },
+    "Scroll": {
+        "DEFAULT": {
+            "flex": 1
+        }
+    },
+    "ScrollContent": {
+        "DEFAULT": {
+            "paddingTop": "16h4s",
+            "paddingBottom": "16h4s"
+        }
+    }
+}

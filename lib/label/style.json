@@ -1,0 +1,12 @@
+{
+    "Text": {
+        "DEFAULT": {
+            "fontSize": "theme:xs",
+            "opacity": 0.7
+        },
+        "ERROR": {
+            "color": "theme:error",
+            "opacity": 1
+        }
+    }
+}

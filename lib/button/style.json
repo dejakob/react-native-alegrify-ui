@@ -1,0 +1,42 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "backgroundColor": "theme:action",
+            "paddingLeft": "32h4s",
+            "paddingRight": "32h4s",
+            "height": "36h4s",
+            "justifyContent": "center",
+            "borderRadius": "18h4s"
+        },
+        "PRIMARY": {
+            "backgroundColor": "theme:primary"
+        },
+        "FULL": {
+            "width": "100vw"
+        },
+        "LINK": {
+            "backgroundColor": "transparent"
+        },
+        "BORDER": {
+            "borderColor": "theme:action",
+            "borderWidth": "4h4s"
+        }
+    },
+    "Text": {
+        "DEFAULT": {
+            "color": "theme:nav",
+            "textAlign": "center",
+            "fontSize": "theme:s"
+        },
+        "PRIMARY": {
+            "color": "theme:action"
+        },
+        "LINK": {
+            "color": "theme:action",
+            "fontWeight": "800"
+        },
+        "DISABLED": {
+            "opacity": 0.6
+        }
+    }
+}

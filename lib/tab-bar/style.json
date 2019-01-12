@@ -1,0 +1,27 @@
+{
+    "Placeholder": {
+        "DEFAULT": {
+            "height": "46h4s"
+        }
+    },
+    "Container": {
+        "DEFAULT": {
+            "flexDirection": "row",
+            "position": "absolute",
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "backgroundColor": "theme:nav",
+            "paddingBottom": "4h4s"
+        }
+    },
+    "Item": {
+        "DEFAULT": {
+            "flex": 1,
+            "padding": "4h4s",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "height": "42h4s"
+        }
+    }
+}

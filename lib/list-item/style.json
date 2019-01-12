@@ -1,0 +1,21 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "backgroundColor": "theme:action",
+            "marginBottom": 1,
+            "padding": "8h4s",
+            "width": "100vw"
+        }
+    },
+    "Label": {
+        "DEFAULT": {
+            "fontSize": "11h4s",
+            "opacity": 0.7
+        }
+    },
+    "Description": {
+        "DEFAULT": {
+            "fontSize": "14h4s"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "INPUT_TYPES": {
+        "PHONE": "phone",
+        "NUMBER": "number",
+        "EMAIL": "email",
+        "TEXT": "text",
+        "PASSWORD": "password"
+    },
+    "INPUT_VARIANTS": [
+        "DEFAULT",
+        "FOCUS",
+        "ERROR",
+        "TEXT"
+    ]
+}

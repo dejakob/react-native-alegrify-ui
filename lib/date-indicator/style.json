@@ -1,0 +1,35 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "flexDirection": "column"
+        }
+    }, 
+    "Month": {
+        "DEFAULT": {
+            "backgroundColor": "theme:primary"
+        }
+    },
+    "MonthText": {
+        "DEFAULT": {
+            "color": "theme:action",
+            "textAlign": "center",
+            "fontSize": "theme:xs",
+            "padding": "4h4s"
+        }
+    },
+    "Day": {
+        "DEFAULT": {
+            "backgroundColor": "theme:action",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": "8h4s"
+        }
+    },
+    "DayText": {
+        "DEFAULT": {
+            "color": "theme:body",
+            "textAlign": "center",
+            "fontSize": "theme:m"
+        }
+    }
+}

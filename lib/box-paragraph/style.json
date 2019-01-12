@@ -1,0 +1,14 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "width": "100%"
+        }
+    },
+    "Text": {
+        "DEFAULT": {
+            "fontSize": "theme:xs",
+            "fontWeight": "400",
+            "color": "theme:nav"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Keyboard": {
+        "DEFAULT": {
+            "flex": 1
+        }
+    },
+    "Scroll": {
+        "DEFAULT": {
+            "flex": 1
+        }
+    },
+    "ScrollContent": {
+        "DEFAULT": {
+            "flex": 0,
+            "minHeight": "100vh"
+        }
+    }
+}

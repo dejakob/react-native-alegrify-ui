@@ -1,0 +1,22 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "padding": "16h4s"
+        },
+        "XS": {
+            "padding": "2h4s"
+        },
+        "S": {
+            "padding": "4h4s"
+        },
+        "M": {
+            "padding": "8h4s"
+        },
+        "L": {
+            "padding": "16h4s"
+        },
+        "XL": {
+            "padding": "32h4s"
+        }
+    }
+}
