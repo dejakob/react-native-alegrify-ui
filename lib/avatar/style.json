@@ -1,0 +1,57 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "height": "48h4s",
+            "width": "48h4s",
+            "borderRadius": "24h4s",
+            "backgroundColor": "theme:nav"
+        },
+        "XS": {
+            "height": "24h4s",
+            "width": "24h4s",
+            "borderRadius": "12h4s"
+        },
+        "S": {
+            "height": "36h4s",
+            "width": "36h4s",
+            "borderRadius": "18h4s"
+        },
+        "L": {
+            "height": "60h4s",
+            "width": "60h4s",
+            "borderRadius": "30h4s"
+        },
+        "XL": {
+            "height": "72h4s",
+            "width": "72h4s",
+            "borderRadius": "36h4s"
+        }
+    },
+    "Image": {
+        "DEFAULT": {
+            "height": "48h4s",
+            "width": "48h4s",
+            "borderRadius": "24h4s"
+        },
+        "XS": {
+            "height": "24h4s",
+            "width": "24h4s",
+            "borderRadius": "12h4s"
+        },
+        "S": {
+            "height": "36h4s",
+            "width": "36h4s",
+            "borderRadius": "18h4s"
+        },
+        "L": {
+            "height": "60h4s",
+            "width": "60h4s",
+            "borderRadius": "30h4s"
+        },
+        "XL": {
+            "height": "72h4s",
+            "width": "72h4s",
+            "borderRadius": "36h4s"
+        }
+    }
+}
