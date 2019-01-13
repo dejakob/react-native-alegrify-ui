@@ -1,19 +1,17 @@
 {
-    "AlegrifyBottomAction": {
-        "Container": {
-            "DEFAULT": {
-                "flex": 1
-            }
-        },
-        "Content": {
-            "DEFAULT": {
-                "flex": 1
-            }
-        },
-        "Footer": {
-            "DEFAULT": {
-                "position": "relative"
-            }
+    "Container": {
+        "DEFAULT": {
+            "flex": 1
+        }
+    },
+    "Content": {
+        "DEFAULT": {
+            "flex": 1
+        }
+    },
+    "Footer": {
+        "DEFAULT": {
+            "position": "relative"
         }
     }
 }
