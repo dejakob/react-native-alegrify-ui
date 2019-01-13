@@ -9,17 +9,7 @@
   "private": false,
   "dependencies": {
     "moment": "^2.23.0",
-    "react-native-component-styler": "^1.0.6",
+    "react-native-component-styler": "^1.0.7",
     "react-native-svg": "^8.0.10"
-  },
-  "devDependencies": {
-    "docz": "^0.13.7",
-    "docz-theme-default": "^0.13.7",
-    "react-art": "^16.7.0",
-    "react-native-web": "^0.10.0-alpha.1"
-  },
-  "scripts": {
-    "dev": "docz dev",
-    "build": "docz build"
   }
 }
