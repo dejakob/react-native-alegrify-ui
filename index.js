@@ -19,7 +19,7 @@ import QuickMessage from './lib/quick-message';
 import Stepper from './lib/stepper';
 import TabBar from './lib/tab-bar';
 
-import CONFIG from './lib/config';
+import * as CONFIG from './lib/config';
 
 export {
     Avatar,
