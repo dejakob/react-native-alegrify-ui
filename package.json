@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "react-native-component-styler": "^1.0.3"
+    "react-native-component-styler": "^1.0.4"
   }
 }
