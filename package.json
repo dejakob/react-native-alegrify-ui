@@ -10,6 +10,6 @@
   "dependencies": {
     "moment": "^2.23.0",
     "react-native-component-styler": "^1.0.7",
-    "react-native-svg": "^8.0.10"
+    "react-native-svg": "9.0.0"
   }
 }
