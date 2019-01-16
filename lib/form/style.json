@@ -1,7 +1,8 @@
 {
     "Keyboard": {
         "DEFAULT": {
-            "flex": 1
+            "flex": 1,
+            "minHeight": "100vh"
         }
     },
     "Scroll": {
