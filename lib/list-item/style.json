@@ -2,7 +2,6 @@
     "Container": {
         "DEFAULT": {
             "backgroundColor": "theme:action",
-            "marginBottom": 1,
             "padding": "8h4s",
             "width": "100vw"
         }
