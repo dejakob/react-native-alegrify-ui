@@ -25,6 +25,9 @@
             "height": "72h4s",
             "width": "72h4s",
             "borderRadius": "36h4s"
+        },
+        "LOADING": {
+            "opacity": 0.5
         }
     },
     "Image": {
