@@ -4,6 +4,10 @@
             "backgroundColor": "theme:action",
             "padding": "16h4s",
             "width": "100vw"
+        },
+        "SEPARATOR": {
+            "borderBottomColor": "theme:inactive",
+            "borderBottomWidth": 1
         }
     },
     "Label": {
