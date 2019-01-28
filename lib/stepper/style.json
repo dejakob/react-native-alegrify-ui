@@ -13,6 +13,10 @@
         "DEFAULT": {
             "paddingTop": "16h4s",
             "paddingBottom": "16h4s"
+        },
+        "BLEED": {
+            "paddingTop": 0,
+            "paddingBottom": 0
         }
     }
 }
