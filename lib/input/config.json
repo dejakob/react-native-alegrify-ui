@@ -4,7 +4,8 @@
         "NUMBER": "number",
         "EMAIL": "email",
         "TEXT": "text",
-        "PASSWORD": "password"
+        "PASSWORD": "password",
+        "RANGE": "range"
     },
     "INPUT_VARIANTS": [
         "DEFAULT",

@@ -1,0 +1,43 @@
+---
+name: Center
+---
+
+# Center
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { Text } from 'react-native';
+import '../config';
+import Center from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <Center>
+        <Text>Some content</Text>
+    </Center>
+</Playground>
+
+## Variants
+
+### Horizontal
+
+    <Center
+        horizontal
+    >
+        <Text>Some content</Text>
+    </Center>
+
+### Vertical
+
+    <Center
+        vertical
+    >
+        <Text>Some content</Text>
+    </Center>
+
+### Both
+
+    <Center>
+        <Text>Some content</Text>
+    </Center>

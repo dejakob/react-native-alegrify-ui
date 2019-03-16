@@ -1,0 +1,31 @@
+---
+name: Label
+---
+
+# Label
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { Text } from 'react-native';
+import '../config';
+import Label from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <Label>
+        Some label
+    </Label>
+</Playground>
+
+## Variants
+
+### Error
+
+<Playground>
+    <Label
+        error
+    >
+        Some error label
+    </Label>
+</Playground>

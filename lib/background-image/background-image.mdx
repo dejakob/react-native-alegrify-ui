@@ -1,0 +1,25 @@
+---
+name: Background Image
+---
+
+# Background Image
+
+import { StylerProvider } from 'react-native-styler';
+import { View } from 'react-native';
+import '../config';
+import BackgroundImage from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+    <BackgroundImage
+        source={{ uri: 'https://source.unsplash.com/random' }}
+    >
+        <View></View>
+    </BackgroundImage>
+
+## Properties
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|source |First color |Yes |Object|Number |
+|children |Content |No |React.Children |

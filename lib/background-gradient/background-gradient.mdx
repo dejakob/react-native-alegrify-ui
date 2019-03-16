@@ -1,0 +1,26 @@
+---
+name: Background Gradient
+---
+
+# Background Gradient
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import '../config';
+
+**Note: React Native Svg is required for this component**
+
+    <BackgroundGradient
+        from="#000000"
+        to="#ffffff"
+    >
+        <View></View>
+    </BackgroundGradient>
+
+## Properties
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|from |First color |Yes| String|
+|to |Second color |Yes| String|
+|children |Content |No| React.Children|

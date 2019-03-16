@@ -1,0 +1,42 @@
+---
+name: Input
+---
+
+# Input
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { Text } from 'react-native';
+import '../config';
+import Input from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <Input
+        label="Example input"
+        defaultValue="default value"
+    />
+</Playground>
+
+<Playground>
+    <Input
+        type="password"
+    />
+</Playground>
+
+## Properties
+
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|defaultValue |Default value of the input |No |String |
+|value |Value of the input |No |String |
+|label |Label to show above the input |No |String |
+|type |phone,number,email,text,password,range |No |String |
+|multiline |Multiple lines on input? |No |Boolean |
+|onBlur |Event on blur |No |Function |
+|onFocus |Event on focus |No |Function |
+|onChangeText |Event on text change |No |Function |
+|onValueChange |Event on value change (range input) |No |Function |
+|error |Error message to show bellow input |No |String |

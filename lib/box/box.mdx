@@ -1,0 +1,52 @@
+---
+name: Box
+---
+
+# Box
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { View, Text } from 'react-native';
+import '../config';
+import Box from './index';
+import BoxTitle from '../box-title';
+import BoxParagraph from '../box-paragraph';
+import Button from '../button';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <Box
+        emoji="👍"
+        action={
+            <Button
+                primary
+            >
+                Dismiss
+            </Button>
+        }
+        full
+    >
+        <BoxTitle
+            spaceL
+        >
+            Box title
+        </BoxTitle>
+        <BoxParagraph
+            spaceL
+        >
+            Box parapgraph
+        </BoxParagraph>
+        <BoxParagraph>
+            Box parapgraph
+        </BoxParagraph>
+    </Box>
+</Playground>
+
+## Properties
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|children |Content of the box |Yes |React.Children |
+|emoji |Emoji to show on top |Yes |String |
+|action |Action at the bottom of the box |Yes |React.Children |

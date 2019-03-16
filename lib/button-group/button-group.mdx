@@ -1,0 +1,29 @@
+---
+name: Button Group
+---
+
+# Button Group
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { View } from 'react-native';
+import '../config';
+import Button from '../button';
+import ButtonGroup from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <ButtonGroup>
+        <Button
+            primary
+        >
+            Primary action
+        </Button>
+        <Button
+            link
+        >
+            Link action
+        </Button>
+    </ButtonGroup>
+</Playground>
