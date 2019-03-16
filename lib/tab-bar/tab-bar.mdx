@@ -1,0 +1,21 @@
+---
+name: Tab Bar
+---
+
+# Tab Bar
+
+import { Playground, PropsTable } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { View } from 'react-native';
+import '../config';
+import TabBar from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+    const items = TABS.map(tab => ({
+        icon: tab.icon,
+        onPress: () => props.onTabPress(tab.to),
+        isActive: props.active === tab.to
+    }));
+
+    <TabBar items={items} />

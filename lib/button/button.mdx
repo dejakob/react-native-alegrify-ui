@@ -1,0 +1,41 @@
+---
+name: Button
+---
+
+# Button
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { View } from 'react-native';
+import '../config';
+import Button from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <Button>
+        This is a button
+    </Button>
+</Playground>
+
+## Variants
+
+### Primary
+
+<Playground>
+    <Button
+        primary
+    >
+        This is a primary button
+    </Button>
+</Playground>
+
+### Link
+
+<Playground>
+    <Button
+        link
+    >
+        This is a link button
+    </Button>
+</Playground>
