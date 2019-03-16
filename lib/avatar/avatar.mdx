@@ -1,0 +1,82 @@
+---
+name: Avatar
+---
+
+# Avatar
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import '../config';
+import Avatar from './index';
+
+<StylerProvider><div /></StylerProvider>
+
+## Example
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+    />
+</Playground>
+
+## Variants
+
+### Extra small
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        xs
+    />
+</Playground>
+
+### Small
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        s
+    />
+</Playground>
+
+### Medium
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        m
+    />
+</Playground>
+
+### Large
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        l
+    />
+</Playground>
+
+### Extra large
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        xl
+    />
+</Playground>
+
+### Loading
+
+<Playground>
+    <Avatar
+        uri="https://source.unsplash.com/200x200/?person"
+        loading
+    />
+</Playground>
+
+## Properties
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|uri      |Path of avatar to show |Yes       |Boolean |

@@ -1,0 +1,35 @@
+---
+name: Bottom Action
+---
+
+# Bottom Action
+
+import { Playground } from 'docz';
+import { StylerProvider } from 'react-native-styler';
+import { View } from 'react-native';
+import '../config';
+import BottomAction from './index';
+import Button from '../button';
+
+<StylerProvider><div /></StylerProvider>
+
+<Playground>
+    <BottomAction
+        action={
+            <Button
+                primary
+            >
+                Primary action
+            </Button>
+        }
+    >
+        <View style={{ flex: 1, backgroundColor: '#eee' }} />
+    </BottomAction>
+</Playground>
+
+## Properties
+
+|Property |Description            |Required? |Type    |
+|---------|-----------------------|----------|--------|
+|action |Bottom component |Yes |React.Children |
+|children |Content |Yes |React.Children |
