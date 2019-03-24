@@ -3,6 +3,15 @@
         "DEFAULT": {
             "fontSize": "22h4s"
         },
+        "XS": {
+            "fontSize": "14h4s"
+        },
+        "S": {
+            "fontSize": "18h4s"
+        },
+        "L": {
+            "fontSize": "10vh"
+        },
         "XL": {
             "fontSize": "14vh"
         }
