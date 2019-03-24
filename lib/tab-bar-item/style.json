@@ -11,7 +11,7 @@
             "marginTop": "-16h4s"
         }
     },
-    "Item": {
+    "ItemContainer": {
         "DEFAULT": {
             "padding": "4h4s",
             "justifyContent": "center",
