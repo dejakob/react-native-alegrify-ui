@@ -12,6 +12,8 @@
             "left": 0,
             "right": 0,
             "backgroundColor": "theme:sheet",
+            "borderTopColor": "theme:navInactiveItem",
+            "borderTopWidth": 1,
             "paddingBottom": "4h4s"
         }
     },
