@@ -1,0 +1,21 @@
+{
+    "Item": {
+        "DEFAULT": {
+            "flex": 1,
+            "padding": "4h4s",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "height": "42h4s"
+        },
+        "PRIMARY": {
+            "flex": 0,
+            "borderRadius": "30h4s",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "height": "60h4s",
+            "width": "60h4s",
+            "marginTop": "-16h4s",
+            "backgroundColor": "theme:primary"
+        }
+    }
+}

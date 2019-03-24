@@ -16,14 +16,5 @@
             "borderTopWidth": 1,
             "paddingBottom": "4h4s"
         }
-    },
-    "Item": {
-        "DEFAULT": {
-            "flex": 1,
-            "padding": "4h4s",
-            "justifyContent": "center",
-            "alignItems": "center",
-            "height": "42h4s"
-        }
     }
 }
