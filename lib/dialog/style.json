@@ -1,0 +1,33 @@
+{
+    "Dialog": {
+        "DEFAULT": {
+            "position": "absolute",
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0,
+            "justifyContent": "center",
+            "padding": "8h4s",
+            "backgroundColor": "rgba(0,0,0,0.8)"
+        }
+    },
+    "DialogContent": {
+        "DEFAULT": {
+            "backgroundColor": "theme:sheet",
+            "padding": "16h4s",
+            "borderRadius": "8h4s"
+        }
+    },
+    "DialogCross": {
+        "DEFAULT": {
+            "padding": "8h4s",
+            "alignItems": "flex-end"
+        }
+    },
+    "DialogCrossText": {
+        "DEFAULT": {
+            "color": "theme:action",
+            "fontWeight": "800"
+        }
+    }
+}

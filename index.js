@@ -9,6 +9,7 @@ import Button from './lib/button';
 import ButtonGroup from './lib/button-group';
 import Center from './lib/center';
 import DateIndicator from './lib/date-indicator';
+import Dialog from './lib/dialog';
 import Emoji from './lib/emoji';
 import Form from './lib/form';
 import Input from './lib/input';
@@ -33,6 +34,7 @@ export {
     ButtonGroup,
     Center,
     DateIndicator,
+    Dialog,
     Emoji,
     Form,
     Input,
