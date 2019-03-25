@@ -18,10 +18,16 @@
             "borderRadius": "8h4s"
         }
     },
-    "DialogCross": {
+    "DialogCrossAlign": {
         "DEFAULT": {
             "padding": "8h4s",
             "alignItems": "flex-end"
+        }
+    },
+    "DialogCross": {
+        "DEFAULT": {
+            "height": "16h4s",
+            "width": "16h4s"
         }
     },
     "DialogCrossText": {
