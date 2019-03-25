@@ -16,6 +16,12 @@
             "height": "100vh"
         }
     },
+    "DialogScrollContainerContent": {
+        "DEFAULT": {
+            "minHeight": "100%",
+            "justifyContent": "flex-end"
+        }
+    },
     "DialogContent": {
         "DEFAULT": {
             "backgroundColor": "theme:sheet",
