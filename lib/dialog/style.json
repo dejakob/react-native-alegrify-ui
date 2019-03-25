@@ -6,7 +6,7 @@
             "right": 0,
             "bottom": 0,
             "left": 0,
-            "justifyContent": "center",
+            "justifyContent": "flex-end",
             "padding": "8h4s",
             "backgroundColor": "rgba(0,0,0,0.8)"
         }
