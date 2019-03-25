@@ -10,6 +10,11 @@
             "backgroundColor": "rgba(0,0,0,0.8)"
         }
     },
+    "DialogScroll": {
+        "DEFAULT": {
+            
+        }
+    },
     "DialogContent": {
         "DEFAULT": {
             "backgroundColor": "theme:sheet",
