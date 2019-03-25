@@ -15,7 +15,8 @@
             "backgroundColor": "theme:sheet",
             "padding": "16h4s",
             "borderRadius": "8h4s",
-            "margin": "8h4s"
+            "margin": "8h4s",
+            "position": "relative"
         }
     },
     "DialogCrossAlign": {
