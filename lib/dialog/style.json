@@ -12,7 +12,7 @@
     },
     "DialogScroll": {
         "DEFAULT": {
-            
+            "flex": 1
         }
     },
     "DialogContent": {
