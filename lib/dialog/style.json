@@ -7,7 +7,6 @@
             "bottom": 0,
             "left": 0,
             "justifyContent": "flex-end",
-            "padding": "8h4s",
             "backgroundColor": "rgba(0,0,0,0.8)"
         }
     },
@@ -15,7 +14,8 @@
         "DEFAULT": {
             "backgroundColor": "theme:sheet",
             "padding": "16h4s",
-            "borderRadius": "8h4s"
+            "borderRadius": "8h4s",
+            "margin": "8h4s"
         }
     },
     "DialogCrossAlign": {
