@@ -17,6 +17,7 @@ import Label from './lib/label';
 import ListItem from './lib/list-item';
 import Padding from './lib/padding';
 import QuickMessage from './lib/quick-message';
+import SegmentedControl from './lib/segmented-control';
 import Stepper from './lib/stepper';
 import TabBar from './lib/tab-bar';
 
@@ -42,6 +43,7 @@ export {
     ListItem,
     Padding,
     QuickMessage,
+    SegmentedControl,
     Stepper,
     TabBar,
 
