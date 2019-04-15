@@ -1,0 +1,30 @@
+{
+    "Container": {
+        "DEFAULT": {
+            "position": "relative",
+            "marginLeft": "8w4s",
+            "marginRight": "8w4s"
+        }
+    }, 
+    "Bar": {
+        "DEFAULT": {
+            "backgroundColor": "theme:primary",
+            "height": "16w4s",
+            "marginTop": "8w4s",
+            "marginBottom": "8w4s",
+            "borderRadius": "8w4s",
+            "width": "100%"
+        }
+    },
+    "Thumb": {
+        "DEFAULT": {
+            "position": "absolute",
+            "height": "32w4s",
+            "width": "32w4s",
+            "left": "-16w4s",
+            "borderRadius": "16w4s",
+            "elevation": 3,
+            "backgroundColor": "theme:sheet"
+        }
+    }
+}
